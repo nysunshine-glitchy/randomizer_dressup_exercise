@@ -1,9 +1,0 @@
-html, body {
-  margin: 20;
-  padding: 20;
-  background-color: skyblue;
-}
-canvas {
-  display: block;
-  margin:auto;
-}
